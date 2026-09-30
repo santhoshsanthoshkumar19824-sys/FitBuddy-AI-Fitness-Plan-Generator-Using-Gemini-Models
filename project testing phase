@@ -1,0 +1,19 @@
+Prepare test cases – Create test cases based on the project requirements.
+
+Unit testing – Test individual modules or components separately.
+
+Integration testing – Check whether different modules work correctly together.
+
+System testing – Test the complete system as a whole.
+
+Functional testing – Verify that all required features perform their intended functions.
+
+Performance testing – Check the system's speed, stability, and response under different conditions.
+
+Security testing – Check authentication, authorization, and protection of user data.
+
+User acceptance testing (UAT) – Allow intended users to test the system and provide feedback.
+
+Identify and fix bugs – Record errors, correct them, and test again.
+
+Final validation – Confirm that the system satisfies the specified requirements.
